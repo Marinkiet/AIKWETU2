@@ -3,7 +3,10 @@ export const dialogueData = {
   one: `Welcome to the LifeScience Lab! 🌍 Let's explore and discover what is ALIVE and what is NOT.`,
   chicken: `Cluck cluck! 🐣 I'm alive because I eat, grow, and have baby chicks!`,
   water: `Splish splash! 🌊 Water helps living things survive, but water itself isn’t alive.`,
-  exit: `Click close to go back.`,
+  exit: `🌟 Welcome, Young Scientist! 🌟
+              Get ready to step into the labs where exciting Grade 3 Science topics await! 🚀🔬
+              Each lab holds interactive items and fascinating discoveries.`,
+  
   gotoboss:`Time to fact the boss!`,
   boss:`🧪 Boss Challenge Quiz: Living and Non-Living Things
 
