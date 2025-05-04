@@ -7,7 +7,7 @@ export const dialogueData = {
               Get ready to step into the labs where exciting Grade 3 Science topics await! 🚀🔬
               Each lab holds interactive items and fascinating discoveries.`,
   
-  gotoboss:`Time to fact the boss!`,
+  gotoboss:`Time to face the boss!`,
   boss:`🧪 Boss Challenge Quiz: Living and Non-Living Things
 
 🔥 You have encountered the Boss!
